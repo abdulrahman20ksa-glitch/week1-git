@@ -1,1 +1,1 @@
-Version from branch ONE
+Resolved: combined changes from branch ONE and branch TWO
